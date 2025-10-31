@@ -1,73 +1,101 @@
-# Welcome to your Lovable project
+# 🌍 Carbon Footprint Calculator
 
-## Project info
+A sleek, interactive web application that helps users estimate and analyze their personal or organizational **carbon footprint** — empowering them to make more sustainable lifestyle choices.  
 
-**URL**: https://lovable.dev/projects/1825c422-f2b4-4184-9dc5-0b044ce31078
+🔗 **Live Demo:** [https://planet-tracker-main-kd03eiwvu-deepak-gautams-projects-795ab307.vercel.app/](https://planet-tracker-main-kd03eiwvu-deepak-gautams-projects-795ab307.vercel.app/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🧭 Overview
 
-**Use Lovable**
+The **Carbon Footprint Calculator** allows users to:
+- Input their daily activities (travel, electricity, food habits, etc.)
+- Get instant CO₂ emission estimates
+- Visualize their footprint with charts and insights
+- Receive suggestions to reduce emissions  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1825c422-f2b4-4184-9dc5-0b044ce31078) and start prompting.
+Built with a focus on clean design, usability, and real-world environmental impact awareness.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ **Dynamic Input Forms** — for travel, energy, and lifestyle data  
+✅ **Real-Time Calculations** — instant carbon emission feedback  
+✅ **Visual Analytics** — charts and graphs for easy understanding  
+✅ **Responsive UI** — works smoothly on desktop and mobile  
+✅ **Deployment on Vercel** — fast, secure, and scalable hosting  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Styling** | TailwindCSS / Material UI (if used) |
+| **State Management** | React Hooks / Context API |
+| **Deployment** | Vercel |
+| **Version Control** | Git + GitHub |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🚀 Deployment
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+This project is deployed using **Vercel**.  
+Visit the live version here:
 
-**Edit a file directly in GitHub**
+👉 **[Carbon Footprint Calculator – Live Demo](https://planet-tracker-main-kd03eiwvu-deepak-gautams-projects-795ab307.vercel.app/)**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## ⚙️ Setup & Installation
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+To run this project locally:
 
-## What technologies are used for this project?
+```bash
+# 1. Clone the repository
+git clone https://github.com/DeepakGaut/Carbon-Footprint-calculator.git
 
-This project is built with:
+# 2. Navigate to project folder
+cd Carbon-Footprint-calculator
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+# 3. Install dependencies
+npm install
 
-## How can I deploy this project?
+# 4. Start the development server
+npm start
+📊 Future Enhancements
 
-Simply open [Lovable](https://lovable.dev/projects/1825c422-f2b4-4184-9dc5-0b044ce31078) and click on Share -> Publish.
+🌱 Integration with APIs for real carbon data
 
-## Can I connect a custom domain to my Lovable project?
+📈 Personalized sustainability reports
 
-Yes, you can!
+🌍 Global emission comparison dashboard
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📤 User accounts and emission history tracking
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🤝 Contributing
+
+Contributions are welcome!
+To contribute:
+
+Fork the repository
+
+Create a new branch (feature/new-feature)
+
+Commit your changes
+
+Submit a pull request
+
+🧑‍💻 Author
+
+Deepak Gautam
+📍 IIT Kharagpur | Mechanical Engineering
+💼 Passionate about full-stack development & environmental tech
+📫 Connect on LinkedIn
+ (optional)
+
+🪪 License
+
+This project is released under the MIT License — free to use, modify, and distribute.
