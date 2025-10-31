@@ -65,28 +65,29 @@ npm install
 
 # 4. Start the development server
 npm start
+```
 📊 Future Enhancements
 
-🌱 Integration with APIs for real carbon data
+• 🌱 Integration with APIs for real carbon data
 
-📈 Personalized sustainability reports
+• 📈 Personalized sustainability reports
 
-🌍 Global emission comparison dashboard
+• 🌍 Global emission comparison dashboard
 
-📤 User accounts and emission history tracking
+• 📤 User accounts and emission history tracking
 
 🤝 Contributing
 
 Contributions are welcome!
 To contribute:
 
-Fork the repository
+1.Fork the repository
 
-Create a new branch (feature/new-feature)
+2.Create a new branch (feature/new-feature)
 
-Commit your changes
+3.Commit your changes
 
-Submit a pull request
+4.Submit a pull request
 
 🧑‍💻 Author
 
