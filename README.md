@@ -79,6 +79,7 @@ npm start
 🤝 Contributing
 
 Contributions are welcome!
+
 To contribute:
 
 1.Fork the repository
@@ -93,9 +94,9 @@ To contribute:
 
 Deepak Gautam
 📍 IIT Kharagpur | Mechanical Engineering
+
 💼 Passionate about full-stack development & environmental tech
-📫 Connect on LinkedIn
- (optional)
+
 
 🪪 License
 
